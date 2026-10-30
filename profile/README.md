@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/TwelveApart/.github/main/profile/assets/logo.svg" alt="The TwelveApart mark" width="64">
+
 # TwelveApart
 
 Two brothers, twelve years apart, exploring how increasingly capable models
@@ -6,6 +8,8 @@ build them.
 
 An independent AI product and engineering studio run by
 [Brandon](https://twelveapart.com/brandon/) and [Kai](https://twelveapart.com/kai/).
+
+[![The twelveapart.com homepage](https://raw.githubusercontent.com/TwelveApart/.github/main/profile/assets/site.png)](https://twelveapart.com)
 
 - **[twelveapart.com](https://twelveapart.com)**: essays in
   [Ideas](https://twelveapart.com/ideas/), experiments in
