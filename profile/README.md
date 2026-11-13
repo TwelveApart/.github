@@ -17,5 +17,9 @@ An independent AI product and engineering studio run by
   [Work](https://twelveapart.com/work/).
 - **[mandem](https://github.com/TwelveApart/mandem)**: local-first agent
   orchestration for disciplined, restart-proof software delivery. Open source.
+- **[Recruiter responses](https://twelveapart.github.io/recruiter-responses/)**:
+  searchable historical replies for job seekers, with a
+  [reusable drafting skill](https://github.com/TwelveApart/skills/tree/main/skills/recruiter-response)
+  and [source collection](https://github.com/TwelveApart/recruiter-responses).
 - **[Work with us](https://twelveapart.com/work-with-us/)** if you have a
   product problem that models have changed.
